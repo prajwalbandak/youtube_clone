@@ -18,3 +18,7 @@ Designed components to display fetched YouTube video data, including thumbnails 
 
 Applied CSS styles or custom styling solutions to ensure a polished and consistent appearance.
 Fine-tuned the Material UI components and layouts to align with the project's design.
+<img width="943" alt="1" src="https://github.com/prajwalbandak/youtube_clone/assets/62823252/6412c246-8d8c-490b-b31c-ae549251f323">
+<img width="364" alt="2" src="https://github.com/prajwalbandak/youtube_clone/assets/62823252/c18ff050-fddc-41e5-9002-bb99cb8eab12">
+<img width="364" alt="2" src="https://github.com/prajwalbandak/youtube_clone/assets/62823252/c39b9a79-eb79-4d07-8225-020f52688753">
+<img width="938" alt="3" src="https://github.com/prajwalbandak/youtube_clone/assets/62823252/fbecdbf2-8e36-4d5c-bc61-43634d998b69">
